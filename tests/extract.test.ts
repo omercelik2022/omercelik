@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtempSync,writeFileSync,rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import path from 'node:path';
+import ExcelJS from 'exceljs';
+import {extractFile} from '../server/extract.ts';
+const dir=mkdtempSync(path.join(tmpdir(),'erasmus-test-'));
+test.after(()=>rmSync(dir,{recursive:true,force:true}));
+test('CSV extraction retains every cell location and does not execute formula-like text',async()=>{const file=path.join(dir,'budget.csv');writeFileSync(file,'Kalem;Katılımcı\nSeyahat;12\n=CMD();15','utf8');const x=await extractFile(file,'budget.csv','csv',false);assert.equal(x.sections.length,6);assert.equal(x.sections.find(s=>s.text==='12')?.location,'Satır 2 / sütun 2');assert.equal(x.sections.find(s=>s.text==='=CMD()')?.formula,'=CMD()');});
+test('XLSX preserves formula and absent cached result as unreadable',async()=>{const file=path.join(dir,'b.xlsx'),wb=new ExcelJS.Workbook(),sheet=wb.addWorksheet('Bütçe');sheet.getCell('A1').value='Katılımcı';sheet.getCell('B1').value={formula:'SUM(A2:A3)'};await wb.xlsx.writeFile(file);const x=await extractFile(file,'b.xlsx','x',false);const c=x.sections.find(s=>s.location==='Bütçe!B1');assert.equal(c?.formula,'SUM(A2:A3)');assert.equal(c?.readable,false);});
+test('legacy formats give an explicit conversion path',async()=>{const f=path.join(dir,'old.doc');writeFileSync(f,'old');await assert.rejects(()=>extractFile(f,'old.doc','old',false),/DOCX\/XLSX/);});

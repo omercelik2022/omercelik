@@ -1,0 +1,12 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE IF NOT EXISTS schema_migrations(version INTEGER PRIMARY KEY, applied_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS users(id TEXT PRIMARY KEY,name TEXT NOT NULL,email TEXT NOT NULL UNIQUE,password_hash TEXT NOT NULL,role TEXT NOT NULL CHECK(role IN ('owner','member')),active INTEGER NOT NULL DEFAULT 1,created_at TEXT NOT NULL);
+CREATE TRIGGER IF NOT EXISTS two_users BEFORE INSERT ON users WHEN (SELECT COUNT(*) FROM users)>=2 BEGIN SELECT RAISE(ABORT,'En fazla iki hesap tanımlanabilir.'); END;
+CREATE TABLE IF NOT EXISTS sessions(token_hash TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),csrf TEXT NOT NULL,expires_at INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS shared_workspace(id INTEGER PRIMARY KEY CHECK(id=1),name TEXT NOT NULL);
+INSERT OR IGNORE INTO shared_workspace VALUES(1,'Ortak Proje Atölyemiz');
+CREATE TABLE IF NOT EXISTS records(kind TEXT NOT NULL,id TEXT NOT NULL,project_id TEXT,json TEXT NOT NULL CHECK(json_valid(json)),PRIMARY KEY(kind,id));
+CREATE INDEX IF NOT EXISTS records_project ON records(kind,project_id);
+CREATE TABLE IF NOT EXISTS audit_events(id TEXT PRIMARY KEY,actor_id TEXT NOT NULL,project_id TEXT,action TEXT NOT NULL,target_id TEXT NOT NULL,created_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT NOT NULL);
+INSERT OR IGNORE INTO schema_migrations VALUES(1,datetime('now'));

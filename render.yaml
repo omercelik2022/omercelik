@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: erasmus-proje-atolyesi
+    runtime: docker
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: COOKIE_SECURE
+        value: "true"
+    disk:
+      name: erasmus-atolye-data
+      mountPath: /opt/app/data
+      sizeGB: 1

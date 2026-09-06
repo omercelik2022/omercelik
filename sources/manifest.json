@@ -1,0 +1,632 @@
+{
+  "accreditation": {
+    "id": "accreditation",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/erasmus-accreditation-vet-school-adult",
+    "hash": "0e11eff6174f0a6d58c6dcdbbbdd564c963d4d92aebcd069ee92dbe98a00c099",
+    "checkedAt": "2026-09-06T06:41:27.301Z",
+    "localPath": "sources/raw/accreditation-0e11eff6174f.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "SCH": {
+    "id": "SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/school-pupils-and-staff",
+    "hash": "d9bfe69100ab451ddcfe04bbf7cf6e67b0e0bc04d81891be4673393b18e53371",
+    "checkedAt": "2026-09-06T06:41:27.303Z",
+    "localPath": "sources/raw/SCH-d9bfe69100ab.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "guide": {
+    "id": "guide",
+    "url": "https://erasmus-plus.ec.europa.eu/erasmus-programme-guide",
+    "hash": "5c326b7467b6648417bffc69daa0423bb3037815f3c47339794181f73588523c",
+    "checkedAt": "2026-09-06T06:41:27.369Z",
+    "localPath": "sources/raw/guide-5c326b7467b6.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "guide-pdf": {
+    "id": "guide-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/programme-guide-2026_en.pdf",
+    "hash": "8f14f67fc83d5081e7e85744ff39ae855aef34af8c842d22ba8c52e464c331a0",
+    "checkedAt": "2026-09-06T06:41:27.602Z",
+    "localPath": "sources/raw/guide-pdf-8f14f67fc83d.pdf",
+    "type": "application/pdf",
+    "status": "verified"
+  },
+  "ADU": {
+    "id": "ADU",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-adult",
+    "hash": "39f3695d7cfce618254796a3147ebda8644a2e37790ccf31c0131359b7097a7b",
+    "checkedAt": "2026-09-06T06:41:27.726Z",
+    "localPath": "sources/raw/ADU-39f3695d7cfc.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA151": {
+    "id": "KA151",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-accredited-youth",
+    "hash": "faf460183aaf85c41a1576e8daa967adccec129efc2a658d63950da67c42812d",
+    "checkedAt": "2026-09-06T06:41:27.744Z",
+    "localPath": "sources/raw/KA151-faf460183aaf.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA150": {
+    "id": "KA150",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/accreditation-youth",
+    "hash": "f49f3c0abbd3413ad2922e6f49232765e190ac9d83df1291a27c7ae08b7a2b03",
+    "checkedAt": "2026-09-06T06:41:27.745Z",
+    "localPath": "sources/raw/KA150-f49f3c0abbd3.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "VET": {
+    "id": "VET",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-vet",
+    "hash": "c3272ec02bbdd11b0b893c66aa0df40d8881914e2be541d631da66fb2cda349f",
+    "checkedAt": "2026-09-06T06:41:27.812Z",
+    "localPath": "sources/raw/VET-c3272ec02bbd.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA154": {
+    "id": "KA154",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-participation",
+    "hash": "476d096a97779dc473603e5d3e2447135f7122436550bbfd9a4d381c4b139283",
+    "checkedAt": "2026-09-06T06:41:27.925Z",
+    "localPath": "sources/raw/KA154-476d096a9777.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA210": {
+    "id": "KA210",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/small-scale-partnerships",
+    "hash": "f004c238e1b86924b272bdfaa44fec2acee1be7ed5c9a21dfc402ec4f23d3bd6",
+    "checkedAt": "2026-09-06T06:41:27.926Z",
+    "localPath": "sources/raw/KA210-f004c238e1b8.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA152": {
+    "id": "KA152",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+    "hash": "1806c18628a0828eaa0c373b8eae670ae4cb8195c6e02113302504b63e6e766d",
+    "checkedAt": "2026-09-06T06:41:27.927Z",
+    "localPath": "sources/raw/KA152-1806c18628a0.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA153": {
+    "id": "KA153",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-youth-workers",
+    "hash": "d863d893374323c937f6b05fc78abf519c72bb67d436a6d1b24f43073ba8101e",
+    "checkedAt": "2026-09-06T06:41:28.023Z",
+    "localPath": "sources/raw/KA153-d863d8933743.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA240": {
+    "id": "KA240",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/school-development-partnerships",
+    "hash": "19f4cf09b41d234e55b085eabe5a1176ce715bd1ea927492b72928eb4eeb65d3",
+    "checkedAt": "2026-09-06T06:41:28.118Z",
+    "localPath": "sources/raw/KA240-19f4cf09b41d.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "KA220": {
+    "id": "KA220",
+    "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/cooperation-partnerships",
+    "hash": "efddcb3444f82afcd1c6111e1ec8b33dd97f97c3571c905e7331d67a33ec2af2",
+    "checkedAt": "2026-09-06T06:41:28.140Z",
+    "localPath": "sources/raw/KA220-efddcb3444f8.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "ua-catalog": {
+    "id": "ua-catalog",
+    "url": "https://www.ua.gov.tr/anasayfa/icerikler/teklif-cagrilari-ve-rehberler/",
+    "hash": "fcc05985c1a35081865fca564b4e582b9e3695fbf6854ac66f25bbe3ba3eaf0c",
+    "checkedAt": "2026-09-06T06:41:28.432Z",
+    "localPath": "sources/raw/ua-catalog-fcc05985c1a3.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "experts": {
+    "id": "experts",
+    "url": "https://www.leargas.ie/wp-content/uploads/2026/02/IV.1a-E-Guide-for-experts-on-quality-assessment-2026_v1.pdf",
+    "hash": "cb85d893a0ce5ac9ec18ea930b868bc2d77588c9ab126a5b756c5cbc60c458c6",
+    "checkedAt": "2026-09-06T06:41:29.131Z",
+    "localPath": "sources/raw/experts-cb85d893a0ce.pdf",
+    "type": "application/pdf",
+    "status": "verified"
+  },
+  "ua-sch": {
+    "id": "ua-sch",
+    "url": "https://www.ua.gov.tr/programlar/firsatlar/ka122-sch-kisa-donem-ogrenciler/",
+    "hash": "47718e28d6cca37f4e93317685b6a435430e797558eb02bb5be18bcda94c0277",
+    "checkedAt": "2026-09-06T06:41:29.261Z",
+    "localPath": "sources/raw/ua-sch-47718e28d6cc.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "form-KA122-SCH": {
+    "id": "form-KA122-SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-short-term-projects-for-mobility-of-learners-and-staff-in-school-education-ka122-sch",
+    "hash": "1e5f38b5c9a809b40da7e5173759dd3e40505b7e1b6e8e4a9f1682ac8eff473a",
+    "localPath": "sources/raw/form-KA122-SCH-1e5f38b5c9a8.html",
+    "checkedAt": "2026-09-06T06:46:51.028Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "ua-allocation-sch": {
+    "id": "ua-allocation-sch",
+    "url": "https://ua.gov.tr/haber/2026-yili-okul-egitimi-alaninda-erasmus-akreditasyonuna-sahip-kuruluslara-hibe-tahsis-edilmesine-iliskin-kurallar-1/",
+    "hash": "01b03597cd75c0dc7a747758b148bb76c0a59670fe2b1f7813decd55124d11cd",
+    "checkedAt": "2026-09-06T06:41:29.410Z",
+    "localPath": "sources/raw/ua-allocation-sch-01b03597cd75.html",
+    "type": "text/html; charset=utf-8",
+    "status": "verified"
+  },
+  "form-KA122-SCH-pdf": {
+    "id": "form-KA122-SCH-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Short-term%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20school%20education%20%28KA122-SCH%29_watermark.pdf",
+    "hash": "75822a7060a5e901fa2265a6d189aa1677a01a39f3bfba822b265ae13af7b96c",
+    "localPath": "sources/raw/form-KA122-SCH-pdf-75822a7060a5.pdf",
+    "checkedAt": "2026-09-06T06:46:51.097Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "allocation-SCH-pdf": {
+    "id": "allocation-SCH-pdf",
+    "url": "https://ua.gov.tr/media/xxbbzwvk/2026_okul_egitimi_akreditasyon_hibe_tahsis_kurallar%C4%B1.pdf",
+    "hash": "431ba27921c668050e8837ab0ccf5ef725c5150177f71edbbb9caf7de231d0ea",
+    "localPath": "sources/raw/allocation-SCH-pdf-431ba27921c6.pdf",
+    "checkedAt": "2026-09-06T06:46:42.454Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-catalog": {
+    "id": "form-catalog",
+    "url": "https://erasmus-plus.ec.europa.eu/sitemap",
+    "hash": "5c82288bbfd31a8413e082ba4933b24f25ecfd103b10d6cc554c12c758751a12",
+    "localPath": "sources/raw/form-catalog-5c82288bbfd3.html",
+    "checkedAt": "2026-09-06T06:46:42.562Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA121-SCH": {
+    "id": "form-KA121-SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-accredited-projects-for-mobility-of-learners-and-staff-in-school-education-ka121-sch",
+    "hash": "dc309ddf1f86a7695231e648359102918452630bb806be0693dd97b68b528684",
+    "localPath": "sources/raw/form-KA121-SCH-dc309ddf1f86.html",
+    "checkedAt": "2026-09-06T06:46:42.712Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA121-ADU": {
+    "id": "form-KA121-ADU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-accredited-projects-for-mobility-of-learners-and-staff-in-adult-education-ka121-adu",
+    "hash": "1def2da158efdccc8285e22c43dbbd9d5e04ade0e02237695685ea82cedf7dbe",
+    "localPath": "sources/raw/form-KA121-ADU-1def2da158ef.html",
+    "checkedAt": "2026-09-06T06:46:42.779Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA121-VET": {
+    "id": "form-KA121-VET",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-accredited-projects-for-mobility-of-learners-and-staff-in-vocational-education-and-training-ka121-vet-0",
+    "hash": "0345bd0499f623b17aca658ab6b6f82743cbe207635d1773969d528e7306a240",
+    "localPath": "sources/raw/form-KA121-VET-0345bd0499f6.html",
+    "checkedAt": "2026-09-06T06:46:43.063Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA121-ADU-pdf": {
+    "id": "form-KA121-ADU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Accredited%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20adult%20education%20%28KA121-ADU%29_watermark.pdf",
+    "hash": "b26dd10c5854064f3acfce19eab874a9ffac68525c81022cce36212ca273690a",
+    "localPath": "sources/raw/form-KA121-ADU-pdf-b26dd10c5854.pdf",
+    "checkedAt": "2026-09-06T06:46:42.943Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA121-VET-pdf": {
+    "id": "form-KA121-VET-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Accredited%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20vocational%20education%20and%20training%20%28KA121-VET%29_watermark_0.pdf",
+    "hash": "505907852f28702bdeeccd1f928b8830554a00461daac27304c62ffaa9286480",
+    "localPath": "sources/raw/form-KA121-VET-pdf-505907852f28.pdf",
+    "checkedAt": "2026-09-06T06:46:43.457Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA121-SCH-pdf": {
+    "id": "form-KA121-SCH-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Accredited%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20school%20education%20%28KA121-SCH%29_watermark.pdf",
+    "hash": "b094fae02a310bb7c35e3f9e846415ad2f9b85c22b0120c685fb4b6bc00bda61",
+    "localPath": "sources/raw/form-KA121-SCH-pdf-b094fae02a31.pdf",
+    "checkedAt": "2026-09-06T06:46:42.960Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA220-ADU": {
+    "id": "form-KA220-ADU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-cooperation-partnerships-in-adult-education-ka220-adu",
+    "hash": "4953d52fdcc47b6b89d395288c0118402d1c90efe93430657bb0e76e1dc95430",
+    "localPath": "sources/raw/form-KA220-ADU-4953d52fdcc4.html",
+    "checkedAt": "2026-09-06T06:46:43.088Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA220-ADU-pdf": {
+    "id": "form-KA220-ADU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Cooperation%20partnerships%20in%20adult%20education%20%28KA220-ADU%29_watermark.pdf",
+    "hash": "58e836ab3c16093440fab9cfb6b78144fe712a0085135223390885e7b428b412",
+    "localPath": "sources/raw/form-KA220-ADU-pdf-58e836ab3c16.pdf",
+    "checkedAt": "2026-09-06T06:46:43.253Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA151-YOU": {
+    "id": "form-KA151-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-accredited-projects-for-youth-mobility-ka151-you",
+    "hash": "7dc6549a74eaf8863572af455263a9f717ba6cd13e497246d956e10da95aada2",
+    "localPath": "sources/raw/form-KA151-YOU-7dc6549a74ea.html",
+    "checkedAt": "2026-09-06T06:46:44.080Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA151-YOU-pdf": {
+    "id": "form-KA151-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Accredited%20projects%20for%20youth%20mobility%20%28KA151-YOU%29_watermark.pdf",
+    "hash": "d8a1e1bc1400b0840e5ecd7585d81c6261d6da6c131882ffb5a160252b08c828",
+    "localPath": "sources/raw/form-KA151-YOU-pdf-d8a1e1bc1400.pdf",
+    "checkedAt": "2026-09-06T06:46:44.250Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA220-HED": {
+    "id": "form-KA220-HED",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-cooperation-partnerships-in-higher-education-ka220-hed",
+    "hash": "3f1d1afeffbf88056e903bdde213dc992afd48fa159e3e6c00f530741a37c622",
+    "localPath": "sources/raw/form-KA220-HED-3f1d1afeffbf.html",
+    "checkedAt": "2026-09-06T06:46:44.345Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA220-VET": {
+    "id": "form-KA220-VET",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-cooperation-partnerships-in-vocational-education-and-training-ka220-vet",
+    "hash": "55f926e4a57e0c043ed369f9b0161f6224f425c598a636c9460d450419336c5e",
+    "localPath": "sources/raw/form-KA220-VET-55f926e4a57e.html",
+    "checkedAt": "2026-09-06T06:46:44.361Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA220-VET-pdf": {
+    "id": "form-KA220-VET-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2026-01/Call%202026%20Cooperation%20partnerships%20in%20vocational%20education%20and%20training%20%28KA220-VET%29_watermark.pdf",
+    "hash": "09d98163687645481d7d397702bf8f2bc7adbaf80130711f492683c6a7b3afbe",
+    "localPath": "sources/raw/form-KA220-VET-pdf-09d981636876.pdf",
+    "checkedAt": "2026-09-06T06:46:44.547Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA220-HED-pdf": {
+    "id": "form-KA220-HED-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Cooperation%20partnerships%20in%20higher%20education%20%28KA220-HED%29_watermark.pdf",
+    "hash": "60478270e470f77272d78ece5527df46e9209de6c926b8012e261c83b50a95fc",
+    "localPath": "sources/raw/form-KA220-HED-pdf-60478270e470.pdf",
+    "checkedAt": "2026-09-06T06:46:44.644Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA220-SCH": {
+    "id": "form-KA220-SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-cooperation-partnerships-in-school-education-ka220-sch",
+    "hash": "b3f6886f818f8e046ea9fdb0a4073e04552fc83f5ecaaf63b2eaf08809e65733",
+    "localPath": "sources/raw/form-KA220-SCH-b3f6886f818f.html",
+    "checkedAt": "2026-09-06T06:46:46.276Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA220-SCH-pdf": {
+    "id": "form-KA220-SCH-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Cooperation%20partnerships%20in%20school%20education%20%28KA220-SCH%29_watermark.pdf",
+    "hash": "3fdbd2ba672888624f1fb9571fa9a647c866df7ef78cd99ec6dbd13bbe3d89bc",
+    "localPath": "sources/raw/form-KA220-SCH-pdf-3fdbd2ba6728.pdf",
+    "checkedAt": "2026-09-06T06:46:46.532Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA220-YOU": {
+    "id": "form-KA220-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-cooperation-partnerships-in-youth-ka220-you",
+    "hash": "906ef7f7cf79d32364ac3ef8623e95f24e5a95b6cdf19a2d21e2a07383135a3d",
+    "localPath": "sources/raw/form-KA220-YOU-906ef7f7cf79.html",
+    "checkedAt": "2026-09-06T06:46:46.627Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA220-YOU-pdf": {
+    "id": "form-KA220-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Cooperation%20partnerships%20in%20youth%20%28KA220-YOU%29_watermark.pdf",
+    "hash": "10adf7e6b07640818e5a45b567d7b8deec534f8819be8425f30389c3bf1b0191",
+    "localPath": "sources/raw/form-KA220-YOU-pdf-10adf7e6b076.pdf",
+    "checkedAt": "2026-09-06T06:46:46.851Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA155-YOU": {
+    "id": "form-KA155-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-discovereu-inclusion-action-ka155-you",
+    "hash": "43fb3de90238f54178c903cf6407f939374543be6d8a28bac156ef1daf90eb82",
+    "localPath": "sources/raw/form-KA155-YOU-43fb3de90238.html",
+    "checkedAt": "2026-09-06T06:46:47.577Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA155-YOU-pdf": {
+    "id": "form-KA155-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20DiscoverEU%20inclusion%20action%20%28KA155-YOU%29_watermark.pdf",
+    "hash": "6ae024f6965376f195bb99ba27b500fe5788a21e6c8b7d1777b1cebcf9dd3e32",
+    "localPath": "sources/raw/form-KA155-YOU-pdf-6ae024f69653.pdf",
+    "checkedAt": "2026-09-06T06:46:47.715Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA130-HED": {
+    "id": "form-KA130-HED",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-erasmus-accreditation-for-higher-education-mobility-consortia-ka130-hed",
+    "hash": "e21ed09ca0f24832221dc1d2e6ca51d07a3211f1476e0c7b1dc68d967f3e3502",
+    "localPath": "sources/raw/form-KA130-HED-e21ed09ca0f2.html",
+    "checkedAt": "2026-09-06T06:46:48.403Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA130-HED-pdf": {
+    "id": "form-KA130-HED-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Erasmus%20accreditation%20for%20higher%20education%20mobility%20consortia%20%28KA130-HED%29_watermark.pdf",
+    "hash": "7f8964451fcb4905a1d486c52c0f0ae5b4d821dd6fe3d92697f3104704645bce",
+    "localPath": "sources/raw/form-KA130-HED-pdf-7f8964451fcb.pdf",
+    "checkedAt": "2026-09-06T06:46:48.572Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA171-HED": {
+    "id": "form-KA171-HED",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-mobility-of-higher-education-students-and-staff-supported-by-external-policy-funds-ka171-hed",
+    "hash": "61adfad05dec6ee8bbfa7b181b5aafb859ec40f4c39a816fb9c6b0a5e74a85c6",
+    "localPath": "sources/raw/form-KA171-HED-61adfad05dec.html",
+    "checkedAt": "2026-09-06T06:46:48.669Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA131-HED": {
+    "id": "form-KA131-HED",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-mobility-of-higher-education-students-and-staff-supported-by-internal-policy-funds-ka131-hed",
+    "hash": "856655b61d930a3e4de4d7854af8b60eb745bce0c7554cefeb82d266dc5fb197",
+    "localPath": "sources/raw/form-KA131-HED-856655b61d93.html",
+    "checkedAt": "2026-09-06T06:46:48.681Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA131-HED-pdf": {
+    "id": "form-KA131-HED-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Mobility%20of%20higher%20education%20students%20and%20staff%20%28KA131-HED%29_watermark.pdf",
+    "hash": "7419de6fabf601466398a4457c1f00ba11ce4179cc8c5fde7d21a0bcb4ba5e7a",
+    "localPath": "sources/raw/form-KA131-HED-pdf-7419de6fabf6.pdf",
+    "checkedAt": "2026-09-06T06:46:48.845Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA171-HED-pdf": {
+    "id": "form-KA171-HED-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Mobility%20of%20higher%20education%20students%20and%20staff%2C%20supported%20by%20external%20policy%20funds%20%28KA171%29_watermark.pdf",
+    "hash": "b59bff9010f2edbef2d445e9d6237007df31e53c41df393f251924394d2b5632",
+    "localPath": "sources/raw/form-KA171-HED-pdf-b59bff9010f2.pdf",
+    "checkedAt": "2026-09-06T06:46:48.883Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA240-SCH": {
+    "id": "form-KA240-SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-european-partnerships-for-school-development-ka240-sch",
+    "hash": "a93971b291854342907b3eb67b1c9b8656d60d83b2725cdc5ba3f28b46f1fdde",
+    "localPath": "sources/raw/form-KA240-SCH-a93971b29185.html",
+    "checkedAt": "2026-09-06T06:46:50.261Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA240-SCH-pdf": {
+    "id": "form-KA240-SCH-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20European%20partnerships%20for%20school%20development%20%28KA240-SCH%29_watermark.pdf",
+    "hash": "b1b1b510f2a530a03cf36d43553fed9c43798e336a096e5bfbcd3dbd7590b092",
+    "localPath": "sources/raw/form-KA240-SCH-pdf-b1b1b510f2a5.pdf",
+    "checkedAt": "2026-09-06T06:46:50.523Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA152-YOU": {
+    "id": "form-KA152-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-mobility-of-young-people-ka152-you",
+    "hash": "61c13f33ef7292a56c855393741d4d6707b2f28c7e763042c6896445fdef98a0",
+    "localPath": "sources/raw/form-KA152-YOU-61c13f33ef72.html",
+    "checkedAt": "2026-09-06T06:46:50.619Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA182-SPO": {
+    "id": "form-KA182-SPO",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-mobility-of-sport-staff-ka182-spo",
+    "hash": "f6099359450b3c242a4ebd7efe0e02723533f447914e93e7d0ac6740052a17a4",
+    "localPath": "sources/raw/form-KA182-SPO-f6099359450b.html",
+    "checkedAt": "2026-09-06T06:46:50.632Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA153-YOU": {
+    "id": "form-KA153-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-mobility-of-youth-workers-ka153-you",
+    "hash": "93c513ab1d8c843785c5460f99dd5f594bae743f2950ac9d9c3ca3b26519acfb",
+    "localPath": "sources/raw/form-KA153-YOU-93c513ab1d8c.html",
+    "checkedAt": "2026-09-06T06:46:50.647Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA152-YOU-pdf": {
+    "id": "form-KA152-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Mobility%20of%20young%20people%20%28KA152-YOU%29_watermark.pdf",
+    "hash": "750ac1f78f7aab34f707230b8b69b903ff24d418fb0f3f75fa29dbd236b040df",
+    "localPath": "sources/raw/form-KA152-YOU-pdf-750ac1f78f7a.pdf",
+    "checkedAt": "2026-09-06T06:46:50.850Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA182-SPO-pdf": {
+    "id": "form-KA182-SPO-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Mobility%20of%20sport%20staff%20%28KA182-SPO%29_watermark.pdf",
+    "hash": "e6f2225f97180597cd4e5d89fd762bb7d6d7c76096ba0d4f295849d2f272d225",
+    "localPath": "sources/raw/form-KA182-SPO-pdf-e6f2225f9718.pdf",
+    "checkedAt": "2026-09-06T06:46:50.873Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA153-YOU-pdf": {
+    "id": "form-KA153-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Mobility%20of%20youth%20workers%20%28KA153-YOU%29_watermark.pdf",
+    "hash": "98e69fe26832bbcb783006d85958ea56f788a3d08d8151f11da07214273ce7d2",
+    "localPath": "sources/raw/form-KA153-YOU-pdf-98e69fe26832.pdf",
+    "checkedAt": "2026-09-06T06:46:50.899Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA122-ADU": {
+    "id": "form-KA122-ADU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-short-term-projects-for-mobility-of-learners-and-staff-in-adult-education-ka122-adu",
+    "hash": "2cead7ead7826e289dfa1ce1de0741bef4c2104a55b3ff9526959d8a3a6115aa",
+    "localPath": "sources/raw/form-KA122-ADU-2cead7ead782.html",
+    "checkedAt": "2026-09-06T06:46:50.998Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA122-VET": {
+    "id": "form-KA122-VET",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-short-term-projects-for-mobility-of-learners-and-staff-in-vocational-education-and-training-ka122-vet",
+    "hash": "7ef8e39ee366509e36f69644204434de1061ad6af109c97820115216908f708f",
+    "localPath": "sources/raw/form-KA122-VET-7ef8e39ee366.html",
+    "checkedAt": "2026-09-06T06:46:51.044Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA122-ADU-pdf": {
+    "id": "form-KA122-ADU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Short-term%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20adult%20education%20%28KA122-ADU%29_watermark.pdf",
+    "hash": "12be7a33dfef62477c16d97cfe126caa45662da65bf5b3204adeb235063b7385",
+    "localPath": "sources/raw/form-KA122-ADU-pdf-12be7a33dfef.pdf",
+    "checkedAt": "2026-09-06T06:46:51.279Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA122-VET-pdf": {
+    "id": "form-KA122-VET-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Short-term%20projects%20for%20mobility%20of%20learners%20and%20staff%20in%20vocational%20education%20and%20training%20%28KA122-VET%29_watermark.pdf",
+    "hash": "f70d8b99a795a8ab7ee3a8e0ebfdfada1e1fb2d9a5d0758e1c9f80fb56c1c10b",
+    "localPath": "sources/raw/form-KA122-VET-pdf-f70d8b99a795.pdf",
+    "checkedAt": "2026-09-06T06:46:51.283Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA210-ADU": {
+    "id": "form-KA210-ADU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-small-scale-partnerships-in-adult-education-ka210-adu",
+    "hash": "d715d7548a8eaf745d4cae85914f0b9be57e6dbc795e0d95c18363de3380b426",
+    "localPath": "sources/raw/form-KA210-ADU-d715d7548a8e.html",
+    "checkedAt": "2026-09-06T06:46:51.375Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA210-SCH": {
+    "id": "form-KA210-SCH",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-small-scale-partnerships-in-school-education-ka210-sch",
+    "hash": "eaf68d231ff1cb442fec1a23d978c1e78dd1538fa5b6b639ef2cd511b7d5bb9e",
+    "localPath": "sources/raw/form-KA210-SCH-eaf68d231ff1.html",
+    "checkedAt": "2026-09-06T06:46:51.391Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA210-VET": {
+    "id": "form-KA210-VET",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-small-scale-partnerships-in-vocational-education-and-training-ka210-vet",
+    "hash": "454f2029865ede774ded2e8d4b219dec10885a16fb3563d9cfdc82de8ce7ff51",
+    "localPath": "sources/raw/form-KA210-VET-454f2029865e.html",
+    "checkedAt": "2026-09-06T06:46:51.398Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA210-ADU-pdf": {
+    "id": "form-KA210-ADU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Small-scale%20partnerships%20in%20adult%20education%20%28KA210-ADU%29_watermark.pdf",
+    "hash": "de5a4dc3aa2df760d2caa0286b7284572d011d896ae70f54dc045f33163ebf89",
+    "localPath": "sources/raw/form-KA210-ADU-pdf-de5a4dc3aa2d.pdf",
+    "checkedAt": "2026-09-06T06:46:51.540Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA210-VET-pdf": {
+    "id": "form-KA210-VET-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Small-scale%20partnerships%20in%20vocational%20education%20and%20training%20%28KA210-VET%29_watermark.pdf",
+    "hash": "6249cdf0eccff4bfd40059897a893b4816bef4e0db534e9e016c7120605388a3",
+    "localPath": "sources/raw/form-KA210-VET-pdf-6249cdf0eccf.pdf",
+    "checkedAt": "2026-09-06T06:46:51.566Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA210-SCH-pdf": {
+    "id": "form-KA210-SCH-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Small-scale%20partnerships%20in%20school%20education%20%28KA210-SCH%29_watermark.pdf",
+    "hash": "1a8610df6a004a6c096b681e65404fc87f555660348e451c022196c5f7657c04",
+    "localPath": "sources/raw/form-KA210-SCH-pdf-1a8610df6a00.pdf",
+    "checkedAt": "2026-09-06T06:46:51.566Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA154-YOU": {
+    "id": "form-KA154-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-youth-participation-activities-ka154-you",
+    "hash": "104b6ba127ea6f949846b3a0d676bcaa17afca7d4f1c64fd0e283c707b6c399a",
+    "localPath": "sources/raw/form-KA154-YOU-104b6ba127ea.html",
+    "checkedAt": "2026-09-06T06:46:51.660Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA210-YOU": {
+    "id": "form-KA210-YOU",
+    "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines/2026-template-application-form-small-scale-partnerships-in-youth-ka210-you",
+    "hash": "b44ed8364ab7ae8b64cd83756026032c247056c9aff5fecab003d09ab7151b99",
+    "localPath": "sources/raw/form-KA210-YOU-b44ed8364ab7.html",
+    "checkedAt": "2026-09-06T06:46:51.761Z",
+    "status": "verified",
+    "type": "text/html; charset=utf-8"
+  },
+  "form-KA154-YOU-pdf": {
+    "id": "form-KA154-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Youth%20participation%20activities%20%28KA154-YOU%29_watermark_0.pdf",
+    "hash": "dfde18a9b222ee2a6f0555ad9b3e5d7db7f9f0719c936cbe37eced2090cf1be0",
+    "localPath": "sources/raw/form-KA154-YOU-pdf-dfde18a9b222.pdf",
+    "checkedAt": "2026-09-06T06:46:51.909Z",
+    "status": "verified",
+    "type": "application/pdf"
+  },
+  "form-KA210-YOU-pdf": {
+    "id": "form-KA210-YOU-pdf",
+    "url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/Call%202026%20Small-scale%20partnerships%20in%20youth%20%28KA210-YOU%29_watermark.pdf",
+    "hash": "cf3cdbd65f46a4ed9b9b67e913507716c7cb83beddf37018b1794bb58b8bfd65",
+    "localPath": "sources/raw/form-KA210-YOU-pdf-cf3cdbd65f46.pdf",
+    "checkedAt": "2026-09-06T06:46:51.983Z",
+    "status": "verified",
+    "type": "application/pdf"
+  }
+}
