@@ -2,6 +2,8 @@ node_modules/
 dist/
 data/
 .env
+deploy/oci/.env
+deploy/oci/data/
 test-results/
 playwright-report/
 *.log
