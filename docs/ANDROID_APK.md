@@ -27,7 +27,8 @@ android\app\build\outputs\apk\debug\app-debug.apk
 ```
 
 Bu dosyayı telefona aktarın ve Android'in soracağı "bu kaynaktan yüklemeye
-izin ver" seçeneğini onaylayın. Bu, test amaçlı imzasız geliştirme APK'sıdır.
+izin ver" seçeneğini onaylayın. Bu, test amaçlı Android'in debug anahtarıyla
+imzalanmış geliştirme APK'sıdır.
 
 ## Çalışma koşulu
 
