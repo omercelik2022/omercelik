@@ -4,6 +4,7 @@ data/
 .env
 deploy/oci/.env
 deploy/oci/data/
+android/local.properties
 test-results/
 playwright-report/
 *.log

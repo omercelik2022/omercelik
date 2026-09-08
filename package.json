@@ -13,9 +13,12 @@
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
     "test:e2e": "playwright test",
+    "android:sync": "npm run build && npx cap sync android",
+    "android:apk": "npm run android:sync && cd android && gradlew.bat assembleDebug",
     "sources:fetch": "tsx scripts/fetch-sources.ts"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.5.1",
     "@playwright/test": "^1.63.0",
     "@types/archiver": "^8.0.0",
     "@types/cookie-parser": "^1.4.10",
@@ -36,6 +39,8 @@
     "vite": "^8.2.2"
   },
   "dependencies": {
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/core": "^8.5.1",
     "@napi-rs/canvas": "^1.0.8",
     "@radix-ui/react-slot": "^1.3.3",
     "archiver": "^8.0.0",
